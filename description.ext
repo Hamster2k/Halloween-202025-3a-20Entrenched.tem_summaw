@@ -1,0 +1,15 @@
+briefingName = "Entrenched";
+author = "Hamster & Berntsen";
+
+respawnOnStart = -1;
+
+#include "ROS_SnowStorm\missionparams.hpp"
+
+class CfgSounds {
+	sounds[] = {};
+
+	#include "ROS_SnowStorm\CfgSounds.hpp"
+
+
+};
+

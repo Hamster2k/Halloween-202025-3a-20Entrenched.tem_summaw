@@ -7,6 +7,7 @@
 [] Tasks
 [] Storyline
 [] Much, much more
+[] Bugle Mod
 
 ### Current idea
 

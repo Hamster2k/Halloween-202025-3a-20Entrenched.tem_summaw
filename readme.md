@@ -1,6 +1,6 @@
 ### TODO
 
-[] Trenches, no man's land, general objects
+[almost done] Trenches, no man's land, general objects
 
 [x] Invincible haunt with zeus modules for Hamster & Berntsen
 
@@ -8,7 +8,7 @@
 
 [x] Add a melee mod for usable bayonets
 
-[] Tasks
+[x] Tasks
 
 [] Storyline
 

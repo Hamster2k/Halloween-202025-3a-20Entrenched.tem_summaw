@@ -6,7 +6,7 @@
 
 [x] Remove RHS and other unnecessary mods from list
 
-[] Add a melee mod for usable bayonets
+[x] Add a melee mod for usable bayonets
 
 [] Tasks
 
@@ -14,9 +14,13 @@
 
 [] Much, much more
 
-[] Bugle Mod
+[x] Bugle Mod
 
-[] Space for gas masks and maybe wire cutters in loadout
+# Loadouts
+
+[] Space for Gas Mask
+
+[] Whistles for leaders
 
 ### Current idea
 

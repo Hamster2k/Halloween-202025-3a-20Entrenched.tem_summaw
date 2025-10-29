@@ -1,8 +1,7 @@
-briefingName = "Entrenched";
+onLoadName = "Entrenched";
 author = "Hamster & Berntsen";
-
 respawnOnStart = -1;
-
+briefingName = "COOP Halloween 25 - Entrenched"
 #include "ROS_SnowStorm\missionparams.hpp"
 
 class CfgSounds {

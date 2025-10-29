@@ -4,19 +4,19 @@ class Params {
         title = "Set the overcast start value";
         texts[] = { "0.2", "0.3", "0.4 Default", "0.5", "0.6"};
         values[] = {0,1,2,3,4};
-        default = 2;
+        default = 4;
     };
     class ROS_timeMulti {
         title = "Set the mission time multiplier";
         texts[] = {"0 Ignore", "1", "3", "8 Default", "12"};
         values[] = {0,1,3,8,12};
-        default = 8;
+        default = 1;
     };
     class ROS_maxSnowStrength {
         title = "Select the maximum Snow Storm strength";
         texts[] = {"Random (Default)", "Light", "Heavy"};
         values[] = {0,1,2};
-        default = 0;
+        default = 2;
     };
     class ROS_eyewearCheck {
         title = "Player suffers if not wearing eyewear";
@@ -28,7 +28,7 @@ class Params {
         title = "Radio warning for extreme weather conditons";
         texts[] = { "Off", "On (Default)"};
         values[] = {0,1};
-        default = 1;
+        default = 10;
     };
     class ROS_Shivering {
         title = "Occasional shivering sounds from player";

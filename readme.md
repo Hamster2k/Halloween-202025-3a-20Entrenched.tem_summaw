@@ -4,7 +4,7 @@
 
 [] Invincible haunt with zeus modules for Hamster & Berntsen
 
-[] Remove RHS and other unnecessary mods from list
+[x] Remove RHS and other unnecessary mods from list
 
 [] Add a melee mod for usable bayonets
 
@@ -16,6 +16,7 @@
 
 [] Bugle Mod
 
+[] Space for gas masks and maybe wire cutters in loadout
 
 ### Current idea
 

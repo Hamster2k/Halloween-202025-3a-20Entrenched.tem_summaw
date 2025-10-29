@@ -2,7 +2,7 @@
 
 [] Trenches, no man's land, general objects
 
-[] Invincible haunt with zeus modules for Hamster & Berntsen
+[x] Invincible haunt with zeus modules for Hamster & Berntsen
 
 [x] Remove RHS and other unnecessary mods from list
 

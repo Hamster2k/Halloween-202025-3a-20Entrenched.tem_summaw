@@ -1,7 +1,7 @@
 deleteMarker "tankmarker1";
 deleteMarker "tankmarker2";
 
-sleepUi 0.1;
+uiSleep 0.1;
 
 _fuelmarkerpos = getMarkerPos "fuelmarker";
 

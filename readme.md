@@ -1,6 +1,6 @@
 ### TODO
 
-[almost done] Trenches, no man's land, general objects
+[x] Trenches, no man's land, general objects
 
 [x] Invincible haunt with zeus modules for Hamster & Berntsen
 
@@ -18,7 +18,7 @@
 
 # Loadouts
 
-[] Space for Gas Mask
+[x] Space for Gas Mask
 
 [] Whistles for leaders
 
